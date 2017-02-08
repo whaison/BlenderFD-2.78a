@@ -1,4 +1,4 @@
-＃BlenderFD-2.78a
+# BlenderFD-2.78a
 これは、必要な流体デザイナーの変更を加えたBlender 2.78aソースコードです
 
 Fluid Designerを構築するプロセスは、Building Blenderとまったく同じです。 ここでドキュメントを見つけることができます：
