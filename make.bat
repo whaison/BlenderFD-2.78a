@@ -272,3 +272,5 @@ goto EOF
 
 :EOF
 
+::Non Close
+cmd /k
